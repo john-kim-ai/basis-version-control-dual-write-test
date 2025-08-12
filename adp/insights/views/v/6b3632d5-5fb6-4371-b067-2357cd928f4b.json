@@ -1,0 +1,28 @@
+{
+  "authorEmail": "johnkim@applied.co",
+  "name": "v",
+  "queryText": "SELECT 1 as 1",
+  "rawConfigJsonProto": {
+    "children": {},
+    "customViewConfig": {
+      "queryConfig": {
+        "rowLimit": 1000,
+        "uuid": "d26ce1ae-1c27-476d-9837-6ed6df8700fc",
+        "value": "SELECT 1 as 1"
+      }
+    },
+    "name": "v",
+    "nonce": "c965c174-9497-4a2c-96c3-713b45f6b01a",
+    "ownerEmail": "johnkim@applied.co",
+    "uuid": "6b3632d5-5fb6-4371-b067-2357cd928f4b",
+    "version": 1
+  },
+  "schema": [
+    {
+      "comment": "v",
+      "dataType": "integer",
+      "name": "1"
+    }
+  ],
+  "uuid": "6b3632d5-5fb6-4371-b067-2357cd928f4b"
+}

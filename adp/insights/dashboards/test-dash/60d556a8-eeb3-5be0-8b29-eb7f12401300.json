@@ -1,0 +1,34 @@
+{
+  "authorEmail": "johnkim@applied.co",
+  "category": "dash",
+  "name": "test-dash",
+  "rawConfigJsonProto": {
+    "dashboardConfig": {
+      "category": "dash",
+      "dashboardFilterConfig": {
+        "jumpConfigs": [
+          {
+            "filterName": "run_info.batch_request_id",
+            "isComparison": true,
+            "sourcePage": "COMPARISON_BATCH_RUN_PAGE",
+            "sourcePageParam": "BATCH_REQUEST_ID_1"
+          },
+          {
+            "filterName": "run_info.batch_request_id",
+            "isComparison": true,
+            "sourcePage": "COMPARISON_BATCH_RUN_PAGE",
+            "sourcePageParam": "BATCH_REQUEST_ID_2"
+          }
+        ]
+      },
+      "disableLiveRefresh": true,
+      "layoutJson": "[{\"x\":0,\"y\":0,\"w\":6,\"h\":2,\"i\":\"bc4c4dd8-d6df-42aa-bbbc-2d2e9c119834\"}]"
+    },
+    "name": "test-dash",
+    "nonce": "d8c1ebdf-d3fe-4627-9d5d-f4c1fb9f28da",
+    "ownerEmail": "johnkim@applied.co",
+    "uuid": "60d556a8-eeb3-5be0-8b29-eb7f12401300",
+    "version": 1
+  },
+  "uuid": "60d556a8-eeb3-5be0-8b29-eb7f12401300"
+}

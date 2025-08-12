@@ -1,0 +1,29 @@
+{
+  "authorEmail": "johnkim@applied.co",
+  "name": "Untitled-bc4c4dd8",
+  "rawConfigJsonProto": {
+    "chartConfigs": [
+      {
+        "chartConfig": {
+          "colorsJson": "[]",
+          "protoVersion": "V2_0",
+          "queryConfig": {
+            "rowLimit": 1000,
+            "uuid": "2abc199a-bcfe-44ea-aeb0-1be50fe59841",
+            "value": "SELECT * FROM v"
+          },
+          "tableConfig": {},
+          "type": "Table"
+        },
+        "name": "Untitled-bc4c4dd8",
+        "nonce": "cce1fbe3-e8ef-4350-919f-e06ce8781667",
+        "ownerEmail": "johnkim@applied.co",
+        "uuid": "bc4c4dd8-d6df-42aa-bbbc-2d2e9c119834",
+        "version": 1
+      }
+    ]
+  },
+  "source": 1,
+  "type": "Table",
+  "uuid": "bc4c4dd8-d6df-42aa-bbbc-2d2e9c119834"
+}
