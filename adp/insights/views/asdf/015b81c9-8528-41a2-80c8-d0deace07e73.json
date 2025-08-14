@@ -1,0 +1,25 @@
+{
+  "authorEmail": "johnkim@applied.co",
+  "name": "asdf",
+  "queryText": "SELECT 99",
+  "rawConfigJsonProto": {
+    "customViewConfig": {
+      "queryConfig": {
+        "rowLimit": 1000,
+        "uuid": "8686728b-932a-4827-9175-65f7c795d274",
+        "value": "SELECT 99"
+      }
+    },
+    "name": "asdf",
+    "ownerEmail": "johnkim@applied.co",
+    "uuid": "015b81c9-8528-41a2-80c8-d0deace07e73"
+  },
+  "schema": [
+    {
+      "comment": "asdf",
+      "dataType": "integer",
+      "name": "asf"
+    }
+  ],
+  "uuid": "015b81c9-8528-41a2-80c8-d0deace07e73"
+}
